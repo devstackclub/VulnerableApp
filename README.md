@@ -51,3 +51,4 @@ access the IP address with your browser. then you can see the website.
 
 
 
+DefaultEndpointsProtocol=https;AccountName=romaansource;AccountKey=hTO/e+sWO3nJEYJqwT66ofIFbEdTwmgmceN9p0DJbdTZ3LGz4ES8/ogwHd63EXSdF5e43KdajCbo+AStSMJg5w==;EndpointSuffix=core.windows.net
