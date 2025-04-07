@@ -1,3 +1,6 @@
+DefaultEndpointsProtocol=https;AccountName=romaanblobstore;AccountKey=OuAhW1lPx8GlwUZ5XoFp4yjc5VOM2C7NQL5GV1tHNlUj/U+erVR1Rxv/IlZDQ1UWZQ0bDzKGMEw4+AStHkAa/w==;EndpointSuffix=core.windows.net
+
+
 # VulnerableApp
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TsuyoshiUshio_VulnerableApp&metric=alert_status)](https://sonarcloud.io/dashboard?id=TsuyoshiUshio_VulnerableApp)
